@@ -203,3 +203,28 @@ th, td {
 .email-button:hover {
     background-color:  #8b3bcc 
 }
+
+.social-media-icons {
+    display: flex;
+    justify-content: center; /* Centers icons without adding extra space between them */
+    align-items: center;
+    margin-top: 25px; /* Adjusts the vertical positioning */
+}
+
+.social-media-icons a img {
+    width: 100px; /* Adjust size as needed */
+    height: 100px;
+    margin: 0 10px; /* Adds uniform space between icons */
+}
+
+.footer-social-media-icons {
+    display: flex;
+    justify-content: center; /* Center the icons */
+    align-items: center;
+}
+
+.footer-social-media-icons a img {
+    width: 30px; /* Set small width */
+    height: 30px; /* Set small height */
+    margin: 0 10px;
+}
