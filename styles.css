@@ -140,6 +140,7 @@ footer {
 .profile-row {
     display: flex;
     justify-content: space-between;
+    padding: 60px;
 }
 
 .profile img {
