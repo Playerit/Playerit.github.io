@@ -19,7 +19,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #6A4C93; 
+    background-color: #6A4C93;
+    color: white;
 }
 
 button {
@@ -30,6 +31,37 @@ button {
     background-color: #4B0082;
     color: white; 
     border-radius: 8px; 
+}
+
+.logo-image {
+    width: 100%;
+    height: auto;
+    background-color: #6A4C93;
+    display: flex;
+}
+
+.logo-container {
+    display: flex;
+    background-color: #6A4C93;
+}
+
+.logo {
+    height: 10px;
+    width: 200px;
+    align-items: center;
+    background-color: #6A4C93;
+    display: flex;
+}
+
+.home-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+    background-image: linear-gradient(to top, #A76D9A, #6A4C93);
+    text-align: center;
 }
 
 .nav-links {
@@ -47,14 +79,13 @@ button {
 }
 
 main {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    padding-left: 60px;
-    padding-right: 60px;
-    height: calc(100vh - 120px);
+    padding-top: 55px;
+    padding-bottom: 80px;
     overflow-y: auto;
     text-align: center;
-    color: #333; 
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 
 footer {
@@ -64,7 +95,8 @@ footer {
     right: 0;
     padding: 20px;
     z-index: 1000;
-    background-color: #6A4C93; 
+    background-color: #6A4C93;
+    display: flex;
 }
 
 .footer-content {
