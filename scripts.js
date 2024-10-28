@@ -19,8 +19,3 @@ function sendMessage() {
 function openEmailClient() {
     window.location.href = 'mailto:playerink@gmail.com';
 }
-
-// Add event listener for email us button
-document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('emailButton').addEventListener('click', openEmailClient);
-});
