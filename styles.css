@@ -75,15 +75,23 @@ footer {
 }
 
 .back-to-top {
-    margin-right: auto;
-    cursor: pointer;
-}
-
-.call-to-action {
-    margin: 0 auto;
+    margin-left: 15px;
     padding: 10px 15px;
     border: none;
     cursor: pointer;
+    background-color: #A76D9A; 
+    color: white; 
+    border-radius: 8px; 
+}
+
+.call-to-action {
+    margin-left: 15px;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    background-color: #A76D9A; 
+    color: white; 
+    border-radius: 8px; 
 }
 
 .social-media {
