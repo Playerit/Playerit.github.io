@@ -27,7 +27,7 @@ button {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background-color: #A76D9A; 
+    background-color: #4B0082;
     color: white; 
     border-radius: 8px; 
 }
@@ -41,7 +41,7 @@ button {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background-color: #A76D9A; 
+    background-color: #4B0082;
     color: white; 
     border-radius: 8px; 
 }
@@ -79,7 +79,7 @@ footer {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background-color: #A76D9A; 
+    background-color: #4B0082;
     color: white; 
     border-radius: 8px; 
 }
@@ -89,7 +89,7 @@ footer {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background-color: #A76D9A; 
+    background-color: #4B0082;
     color: white; 
     border-radius: 8px; 
 }
@@ -202,7 +202,7 @@ th, td {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background-color: #A76D9A; 
+    background-color: #4B0082;
     color: white; 
     border-radius: 8px;       
 }
