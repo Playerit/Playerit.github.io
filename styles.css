@@ -22,7 +22,7 @@ header {
     background-color: #6A4C93; 
 }
 
-.logo button {
+button {
     margin-left: 15px;
     padding: 10px 15px;
     border: none;
