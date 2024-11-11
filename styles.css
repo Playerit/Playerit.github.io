@@ -114,16 +114,16 @@ footer {
     background-color: #800080;
     color: white; 
     border-radius: 8px; 
+    margin-right: 33px;
 }
 
 .call-to-action {
-    margin-left: 15px;
-    padding: 10px 15px;
     border: none;
     cursor: pointer;
     background-color: #800080;
     color: white; 
-    border-radius: 8px; 
+    border-radius: 8px;
+    justify-self: center;
 }
 
 .social-media {
@@ -140,8 +140,8 @@ footer {
 .profile-row {
     display: flex;
     justify-content: space-between;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .profile img {
@@ -212,7 +212,6 @@ th, td {
     background-color: #f9f9f9;
 }
 
-
 .premium-section {
     margin: 40px 0;
 }
@@ -231,6 +230,7 @@ th, td {
 .index-spacer {
     height: 102px;
 }
+
 .email-button{
     margin-left: 15px;
     padding: 10px 15px;
@@ -264,4 +264,8 @@ th, td {
     width: 30px; /* Set small width */
     height: 30px; /* Set small height */
     margin: 0 10px;
+}
+
+.top-banner {
+    padding-top: 30px;
 }
