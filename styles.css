@@ -210,6 +210,8 @@ th, td {
     border: 1px solid #ccc;
     border-radius: 8px;
     background-color: #f9f9f9;
+    width: 600px;
+    justify-self: center;
 }
 
 .premium-section {
@@ -225,6 +227,21 @@ th, td {
 .premium-section p {
     font-size: 18px;
     color: #666; 
+}
+
+.premium-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.premium-section li {
+    margin: 10px 0;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 600px;
+    justify-self: center;
 }
 
 .index-spacer {
